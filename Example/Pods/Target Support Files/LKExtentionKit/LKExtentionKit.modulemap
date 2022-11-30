@@ -1,0 +1,6 @@
+framework module LKExtentionKit {
+  umbrella header "LKExtentionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

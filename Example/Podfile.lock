@@ -1,0 +1,16 @@
+PODS:
+  - LKExtentionKit (0.1.0)
+
+DEPENDENCIES:
+  - LKExtentionKit (from `../`)
+
+EXTERNAL SOURCES:
+  LKExtentionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKExtentionKit: 557ff9113bf96a801a9f949ab1a7fb1ec650296d
+
+PODFILE CHECKSUM: c3404ee15778027dd70488de5e6ba6812bfb5d41
+
+COCOAPODS: 1.11.2

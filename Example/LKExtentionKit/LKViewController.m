@@ -7,6 +7,7 @@
 //
 
 #import "LKViewController.h"
+#import "Person.h"
 
 @interface LKViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    Person *p = Person.new;
 }
 
 - (void)didReceiveMemoryWarning
