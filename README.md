@@ -22,7 +22,7 @@ pod 'LKExtentionKit'
 
 ## Author
 
-yuhanglv, lvkaike@kanzhun.com
+yuhanglv, lvkaike@hotmail.com
 
 ## License
 
