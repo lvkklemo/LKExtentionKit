@@ -22,6 +22,7 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/yuhanglv/LKExtentionKit'
+  # git@github.com:lvkklemo/LKExtentionKit.git
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yuhanglv' => 'lvkklemo@163.com' }
