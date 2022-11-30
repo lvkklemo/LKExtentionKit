@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LKExtentionKit_Example' do
+  pod 'LKExtentionKit', :path => '../'
+
+  target 'LKExtentionKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
